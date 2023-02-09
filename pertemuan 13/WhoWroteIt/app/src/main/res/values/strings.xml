@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions" />
+    <string name="input_hint" />
+    <string name="button_text" />
+    <string name="no_results" />
+    <string name="loading" />
+    <string name="no_search_term" />
+    <string name="no_network" />
+</resources>
